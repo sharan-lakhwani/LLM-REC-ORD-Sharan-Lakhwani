@@ -6,4 +6,4 @@ Para poder meter más opciones en precio máximo y mínimo por noche, simplement
 ## LINK GITHUB
 https://github.com/sharan-lakhwani/LLM-REC-ORD-Sharan-Lakhwani
 ## LINK NETLIFY
-booking-sharan.netlify.app
+https://booking-sharan.netlify.app
